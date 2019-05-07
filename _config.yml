@@ -16,7 +16,7 @@
 title: 暗物质工作室
 email: x@mail.darkmatter.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  暗物质工作室 TODO
+  暗物质工作室
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://darkmatter.cn"
 google_analytics: UA-139710402-1
