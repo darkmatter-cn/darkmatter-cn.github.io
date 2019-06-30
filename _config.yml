@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://darkmatter.cn"
 google_analytics: UA-139710402-1
 instagram_username: huahang
+future: true
 
 # Build settings
 markdown: kramdown
