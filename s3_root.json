@@ -1,0 +1,8 @@
+{
+  "bucket": "darkmatter.cn",
+  "blacklist": [
+    "s3_root.json",
+    ".DS_Store",
+    "desktop.ini"
+  ]
+}
